@@ -11,9 +11,18 @@ namespace HashCodeOnline2020
         public void main()
         {
             string[] lines = File.ReadAllLines(textPath);
-            
 
-           
+            string[] firstValues = new string[] { }; 
+
+            if (lines.Length > 0)
+            {
+                firstValues = lines[0].Split(" ");
+            }
+
+            for (int i = 1; i < lines.Length; i++)
+            {
+
+            }
             //WriteResult(selectedPizzas, textPath);
         }
 
