@@ -6,7 +6,8 @@ namespace HashCodeOnline2020
     {
         static void Main(string[] args)
         {
-            
+            Root root = new Root();
+            root.main();
         }
     }
 }
