@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashCodeOnline2020", "HashCodeOnline2020\HashCodeOnline2020.csproj", "{5D1AA3D5-983C-4B30-85C3-23C6CA8A584B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D1AA3D5-983C-4B30-85C3-23C6CA8A584B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1AA3D5-983C-4B30-85C3-23C6CA8A584B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1AA3D5-983C-4B30-85C3-23C6CA8A584B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1AA3D5-983C-4B30-85C3-23C6CA8A584B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86C4E24B-2B39-41F1-A2C7-AF03BCCC6E9E}
+	EndGlobalSection
+EndGlobal
